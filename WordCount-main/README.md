@@ -1,4 +1,3 @@
-# WordCount
 # Word Count 
  
 In this project have to print the first three most common words that appear in a given text.
